@@ -26,6 +26,8 @@ delete /fakename/{id} hier kan ik een fakenaam verwijderen aan de hand van een i
 
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/91150116/211033680-554f5c98-c0ed-4b72-be23-12b234d04575.png)
+![image](https://user-images.githubusercontent.com/91150116/211037201-399e5ce7-1e75-4dc9-b6fd-ad103ceb2666.png)
+
 
 
 ## Postman
