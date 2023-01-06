@@ -9,9 +9,22 @@ Mijn project zorgt ervoor dat je een login systeem hebt waarbij je een account k
     * [Front-End Repository](https://github.com/BrentVandeReyd/BrentVandeReyd.github.io)
     * [Hosted Front-End ](https://brentvandereyd.github.io/)
 
+
+Post /users hier kan je de user aanmaken
+get  /users hier kan je de users opvragen die je hebt gemaakt
+get  /users/{user_id} hier kan je zien welk id en aan welke email is gekoppeld
+Post /ip hier kan je een fake ip ingeven
+get  /ip hier kan je de gemaakte ip opvragen
+post /fakename hier kan je een fakename ingeven
+get  /fakename hier kan je de gemaakte fake names opvragen
+post /token hier kan je inloggen met de gemaakte user
+put  /fakename/{id} hier kan ik een fakename aanpassen aan de hand van een id
+delete /fakename/{id} hier kan ik een fakenaam verwijderen aan de hand van een id
+
+
+
+
 ## Screenshots
 
 
 ## Postman
-
-p
