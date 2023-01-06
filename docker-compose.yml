@@ -1,0 +1,7 @@
+
+version: "3.9"
+services:
+ randomizer-service:
+  image: brentvdr/api-project
+  ports:
+    - "8000:8000"
