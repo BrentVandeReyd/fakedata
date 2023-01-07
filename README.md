@@ -3,12 +3,8 @@ Mijn project zorgt ervoor dat je een login systeem hebt waarbij je een account k
 
 ## Links
 * API Links
-    * [API Repository](https://github.com/BrentVandeReyd/FakerApiBrent)
+    * [API Repository](https://github.com/BrentVandeReyd/fakedata)
     * [Hosted API](https://useritem-api-service-brentvandereyd.cloud.okteto.net)
-* Front-End Links
-    * [Front-End Repository](https://github.com/BrentVandeReyd/BrentVandeReyd.github.io)
-    * [Hosted Front-End ](https://brentvandereyd.github.io/)
-
 
 Post /users hier kan je de user aanmaken
 get  /users hier kan je de users opvragen die je hebt gemaakt
