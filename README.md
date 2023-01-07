@@ -4,7 +4,7 @@ Mijn project zorgt ervoor dat je een login systeem hebt waarbij je een account k
 ## Links
 * API Links
     * [API Repository](https://github.com/BrentVandeReyd/FakerApiBrent)
-    * [Hosted API](https://randomizer-service-brentvandereyd.cloud.okteto.net)
+    * [Hosted API](https://useritem-api-service-brentvandereyd.cloud.okteto.net)
 * Front-End Links
     * [Front-End Repository](https://github.com/BrentVandeReyd/BrentVandeReyd.github.io)
     * [Hosted Front-End ](https://brentvandereyd.github.io/)
@@ -38,5 +38,6 @@ delete /fakename/{id} hier kan ik een fakenaam verwijderen aan de hand van een i
 ![image](https://user-images.githubusercontent.com/91150116/211162506-c05ceb2d-f86f-461f-8fc3-a5e0ce9d0491.png)
 ![image](https://user-images.githubusercontent.com/91150116/211162615-22e307f7-0675-442c-bb13-1abeef1433d3.png)
 ![image](https://user-images.githubusercontent.com/91150116/211162631-1286072b-194b-4a52-b53d-d6fe73bd9b19.png)
+![image](https://user-images.githubusercontent.com/91150116/211162861-b5a2606c-41c1-4fb7-a5fc-34d61769ee8e.png)
 
 
