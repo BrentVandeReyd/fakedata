@@ -35,5 +35,10 @@ delete /fakename/{id} hier kan ik een fakenaam verwijderen aan de hand van een i
 ![image](https://user-images.githubusercontent.com/91150116/211162615-22e307f7-0675-442c-bb13-1abeef1433d3.png)
 ![image](https://user-images.githubusercontent.com/91150116/211162631-1286072b-194b-4a52-b53d-d6fe73bd9b19.png)
 ![image](https://user-images.githubusercontent.com/91150116/211162861-b5a2606c-41c1-4fb7-a5fc-34d61769ee8e.png)
+![image](https://user-images.githubusercontent.com/91150116/211166137-a38025f0-7ecc-4b07-b09f-4b8bb24f7b16.png)
+![image](https://user-images.githubusercontent.com/91150116/211166201-611044f9-0015-407e-be9b-6d2d97307c08.png)
+![image](https://user-images.githubusercontent.com/91150116/211166212-0d8d1bb9-7cbf-44bf-a0fe-ab99ce2bb194.png)
+![image](https://user-images.githubusercontent.com/91150116/211166217-bf3918b2-1237-4e9d-8e9e-3a07f63fb013.png)
+
 
 
